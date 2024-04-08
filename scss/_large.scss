@@ -1,0 +1,43 @@
+
+header {
+    
+    h1 {
+        
+        font-size: 2.5rem;   
+    }   
+    
+      }
+      
+body {
+display: grid;
+grid-template-columns: 250px auto;
+
+}
+#navWrapper {
+   grid-row: 1 / span 3;
+   position: relative;
+}
+
+nav ul {
+   flex-direction: column;
+   height: 100vh;
+   justify-content: center;
+   position: fixed;
+   
+}
+
+.hero {
+   width: 25%;
+   height: auto;
+   margin-left: 125px;
+   border: solid 2px white;
+   border-radius: 10px;}
+
+
+   section p {font-size: 12px;
+      text-align: center;
+      width: 350px;
+      margin-left: 105px;
+  }
+
+  ul a { width: 246px;}

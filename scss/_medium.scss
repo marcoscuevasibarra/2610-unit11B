@@ -1,0 +1,57 @@
+header {
+
+ padding: 2rem $gutter;  
+ h1 { 
+    font-size: 2rem;
+
+ } 
+}
+
+
+   
+
+
+
+   
+   
+   
+   
+   
+   h2 {width: 200px;}
+   address{ width: 200px;} 
+   img{ width: 100%;}
+   a {
+      padding-top: 35px;
+      
+   }
+
+   nav {
+
+      ul{
+         a {
+            img {display: none;}
+            span {display: block;}
+         }
+      }
+   }
+
+   .hero {
+      width: 50%;
+      height: auto;
+      margin-left: 125px;
+      border: solid 2px white;
+      border-radius: 10px;}
+
+
+      section p {font-size: 12px;
+         text-align: center;
+         width: 350px;
+         margin-left: 135px;
+     }
+     section h1 {margin: 0;}
+
+     #icon { 
+      height: 50px;
+      width: 50px;
+      margin-bottom: 15px;
+   }
